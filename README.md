@@ -33,7 +33,7 @@ Hi there, I'm **Dipanshu Dev Gangwar**, a **Fullstack Developer/Data Science ent
 **About Me!**
 
 - 🌱 I’m currently exploring React and Node to develop fullstack applications. 
-- 🤔 My interests are web development, data science and creating some cool stuff.
+- 🤔 My interests are web development, data science, video editing and creating some cool stuff.
 - 💼 I have a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dipanshud146@gmail.com](mailto:dipanshud146@gmail.com).
